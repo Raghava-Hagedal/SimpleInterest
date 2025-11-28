@@ -1,5 +1,6 @@
 import sys
-if len(sys_avg)==4:
+if 
+len(sys_avg)==4:
 script_name=sys.avg[0]
 principal=sys.avg[1]
 rate=sys.avg[2]
