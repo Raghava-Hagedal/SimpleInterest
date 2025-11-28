@@ -1,5 +1,5 @@
 import sys
-if 
+if :
 len(sys_avg)==4:
 script_name=sys.avg[0]
 principal=sys.avg[1]
